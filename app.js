@@ -1,7 +1,6 @@
 "use strict";
 
-const sentence =
-  "The quick brown fox jumps over the lazy dog dog over the brown.";
+const sentence = "The quick brown fox jumps over the lazy dog.";
 
 // 1. split the sentence up at the spaces and make sure the letters are all lowerCase
 
